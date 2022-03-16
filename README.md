@@ -1,4 +1,4 @@
-## Hi 👋, I'm Minh Son | AI Engineer
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Minh Son | AI Engineer
 
 ![92398696-07e9ae00-f164-11ea-9f4f-42df807a6218](https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif)
 
@@ -18,15 +18,15 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="Minhsondev">
+<table>
+<tr>
+  <td width="48%">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhson1411&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Minhsondev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhson1411&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
+  </td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+</tr>
+<table>
 <br>
 
 <h2 align="center">👽 Where to find me 👽</h2>
