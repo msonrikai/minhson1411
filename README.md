@@ -2,6 +2,11 @@
 <h3 align="center">I want to become an expert in the computer vision field</h3>
 <br/>
 
+<p align="center">
+    <img src="https://github.com/Tuanpluss02/Tuanpluss02/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+
 
 
 ## 🙋‍♂️ About Me
