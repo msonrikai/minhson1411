@@ -12,7 +12,7 @@
 - 💻 **I'm AI Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">**
 - 👀 **I’m interested in C\C++, Javascript, Python language.**
 - 🌱 **I’m currently learning everything.**
-- ✌ **This is my website** [https://nguyenminhson.cf/](https://nguyenminhson.cf/)
+- ✌ **This is my website** [https://nguyenminhson.cf/](https://minhson1411.github.io/portfolio)
 
 ## 🚀 Languages and Tools:
 
